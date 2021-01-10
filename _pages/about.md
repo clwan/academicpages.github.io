@@ -14,7 +14,17 @@ At IU, I also collobrated deeply with [Prof. Xiongbin Lu](https://xiongbinlulab.
 
 Prior to Purdue, I received B.S in Biology and Minor in Business Administration from University of Science and Technology of China. At USTC, I have participanted in the mammalian near-infrared vision project under the supervision of [Prof. Xue Tian](https://www.xuelab.ustc.edu.cn/) ([Best of Cell 2019](https://www.cell.com/cell/pdf/S0092-8674(19)30101-1.pdf)). And worked with [Prof. Yuanwei Zhang](http://www.biostacs.com/index.html) on developing RNA sequencing analysis platforms ([Bioinformatics](https://academic.oup.com/bioinformatics/article/33/20/3289/2976718)).
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+Recent News
+==========
+- So excited to share that Changlin will join [Prof. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie)'s lab @MSKCC as summer research intern in 2021. (Yeah, I will be there on-site. Hit me up and coffee is on me!)
+
+- Our single cell denoising pipeline has been accepted by IEEE BIBM 2020, a joyful collaboration with [Dr. Dongya Jia](https://scholar.google.com/citations?user=lz2H6dsAAAAJ&hl=en).
+
+- Our Boolean tensor factorization method has been accepted by NeurIPS 2020, this is first of its kind method to tackle tensor factorization problem under geometric consideration.
+
+
+
 
 A data-driven personal website
 ======
