@@ -28,8 +28,11 @@ Recent News
 
 Experiences
 -----------
-- test
->- test test
+- Indiana University, School of Medicine, Indianapolis, IN
+  - Research Assistant, Aug 2017 - Present
+- Amazon, Seattle, WA
+  - Applied Scientist Intern, Jun 2020 - Sep 2020
+- University of Science and Technology of China, Hefei, China
 
 
 
