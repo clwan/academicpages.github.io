@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Changlin Wan"
 excerpt: "Changlin Wan"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+--------
 Hey, there. I am a Ph.D candidate on Electrical and Computer Engineering at Purdue University, where I am fortunated to be advised by [Prof. Chi Zhang](https://zcslab.github.io/) from Indiana University School of Medicine. My research focus is to develop machine learning algorithms and statistical models in comprehension and representation of complex data ([NAR](https://academic.oup.com/nar/article/47/18/e111/5542876)).
 
 At IU, I also collobrated deeply with [Prof. Xiongbin Lu](https://xiongbinlulab.org) in deciperhering antigen presentation in the cancer microenvironment ([JCI cover letter](https://www.jci.org/articles/view/140837)). Industry-wise, I was an applied scienst intern at Amazon, working with [Dr. Tong Zhao](https://scholar.google.com/citations?hl=en&user=SSBJh9oAAAAJ&view_op=list_works&sortby=pubdate) on substitable product recommendation and general machine learning questions ([NeurIPS](https://papers.nips.cc/paper/2020/file/1def1713ebf17722cbe300cfc1c88558-Paper.pdf), [CIKM](https://dl.acm.org/doi/abs/10.1145/3340531.3412156), [AAAI](https://ojs.aaai.org//index.php/AAAI/article/view/6072)). 
@@ -16,13 +18,18 @@ Prior to Purdue, I received B.S in Biology and Minor in Business Administration 
 
 
 Recent News
-==========
+-----------
 - So excited to share that Changlin will join [Prof. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie)'s lab @MSKCC as summer research intern in 2021. (Yeah, I will be there on-site. Hit me up and coffee is on me!)
 
 - Our single cell denoising pipeline has been accepted by IEEE BIBM 2020, a joyful collaboration with [Dr. Dongya Jia](https://scholar.google.com/citations?user=lz2H6dsAAAAJ&hl=en).
 
 - Our Boolean tensor factorization method has been accepted by NeurIPS 2020, this is first of its kind method to tackle tensor factorization problem under geometric consideration.
 
+
+Experiences
+-----------
+- test
+>- test test
 
 
 
