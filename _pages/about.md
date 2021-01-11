@@ -14,7 +14,7 @@ Hey, there. I am a Ph.D candidate on Electrical and Computer Engineering at Purd
 
 My research lies in the intersection of machine learning and Computational Biology, with specific focus on
 - Knowledge generalization and representation ([NeurIPS](https://papers.nips.cc/paper/2020/file/1def1713ebf17722cbe300cfc1c88558-Paper.pdf), [CIKM](https://dl.acm.org/doi/abs/10.1145/3340531.3412156), [AAAI](https://ojs.aaai.org//index.php/AAAI/article/view/6072)).
-- Modeling and analysis of Biological data ([NAR](https://academic.oup.com/nar/article/47/18/e111/5542876), [JCI cover letter](https://www.jci.org/articles/view/140837), [Bioinformatics](https://academic.oup.com/bioinformatics/article/33/20/3289/2976718)).
+- Modeling and analysis of Biological data ([NAR](https://academic.oup.com/nar/article/47/18/e111/5542876), [JCI](https://www.jci.org/articles/view/140837), [Bioinformatics](https://academic.oup.com/bioinformatics/article/33/20/3289/2976718)).
 
 
 Recent News
