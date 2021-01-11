@@ -41,5 +41,9 @@ Yuqian Ma, Jin Bao, Yuanwei Zhang, Zhanjun Li, Xiangyu Zhou, **Changlin Wan**, L
 *Cell*, [Best of Cell 2019](https://info.cell.com/best-of-cell-2019), [Nature News](https://www.nature.com/articles/d41586-019-00735-4#:~:text=Cue%20the%20super%2Dmouse.,invisible%20to%20mammals%20%E2%80%94%20including%20humans.&text=Xue's%20team%20attached%20the%20nanoparticles,then%20injected%20them%20into%20mice.), [*The Atlantic*](https://www.theatlantic.com/science/archive/2019/02/nanotech-injections-give-mice-infrared-vision/583768/), [ScienceDaily](https://www.sciencedaily.com/releases/2019/02/190228141412.htm)
 
 
-
+2017
+-----
+**CPSS 2.0: a computational platform update for the analysis of small RNA sequencing data.**  
+**Changlin Wan***, Jianing Gao*, Huan Zhang, Xiaohua Jiang, Qiguang Zang, Rongjun Ban, Yuanwei Zhang, and Qinghua Shi.  
+*Bioinformatics*, [Paper](https://academic.oup.com/bioinformatics/article/33/20/3289/2976718), [Website](http://114.214.166.79/cpss2.0/)
 
