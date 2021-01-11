@@ -8,13 +8,13 @@ author_profile: true
 2021
 -------
 **MAL2 drives immune evasion in breast cancer by suppressing tumor antigen presentation.**  
-Yuanzhang Fang*, Lifei Wang*, **Changlin Wan***, Yifan Sun, Kevin Van der Jeught, Zhuolong Zhou, Tianhan Dong, Ka Man So, Tao Yu, Yujing Li, Haniyeh Eyvani, Austyn B. Colter, Edward Dong, Sha Cao, Jin Wang, Bryan P. Schneider, George E. Sandusky, Yunlong Liu, Chi Zhang, Xiongbin Lu, and Xinna Zhang.  
+Yuanzhang Fang\*, Lifei Wang\*, **Changlin Wan**\*, Yifan Sun, Kevin Van der Jeught, Zhuolong Zhou, Tianhan Dong, Ka Man So, Tao Yu, Yujing Li, Haniyeh Eyvani, Austyn B. Colter, Edward Dong, Sha Cao, Jin Wang, Bryan P. Schneider, George E. Sandusky, Yunlong Liu, Chi Zhang, Xiongbin Lu, and Xinna Zhang.  
 *Journal of Clinical Investigation*, [Cover letter](https://www.jci.org/131/1), [Paper](https://www.jci.org/articles/view/140837)
 
 2020
 --------
 **A data denoising approach to optimize functional clustering of single cell RNA-sequencing data.**  
-**Changlin Wan***, Dongya Jia*, Yue Zhao, Wennan Chang, Sha Cao, Xiao Wang, and Chi Zhang. 
+**Changlin Wan**\*, Dongya Jia\*, Yue Zhao, Wennan Chang, Sha Cao, Xiao Wang, and Chi Zhang. 
 *Proceedings of 2020 IEEE International Conference on Bioinformatics and Biomedicine* (**BIBM 2020**)
 
 **Geometric all-way Boolean tensor decomposition.**  
@@ -44,6 +44,6 @@ Yuqian Ma, Jin Bao, Yuanwei Zhang, Zhanjun Li, Xiangyu Zhou, **Changlin Wan**, L
 2017
 -----
 **CPSS 2.0: a computational platform update for the analysis of small RNA sequencing data.**  
-**Changlin Wan***, Jianing Gao*, Huan Zhang, Xiaohua Jiang, Qiguang Zang, Rongjun Ban, Yuanwei Zhang, and Qinghua Shi.  
+**Changlin Wan**\*, Jianing Gao\*, Huan Zhang, Xiaohua Jiang, Qiguang Zang, Rongjun Ban, Yuanwei Zhang, and Qinghua Shi.  
 *Bioinformatics*, [Paper](https://academic.oup.com/bioinformatics/article/33/20/3289/2976718), [Website](http://114.214.166.79/cpss2.0/)
 
