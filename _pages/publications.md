@@ -9,7 +9,7 @@ author_profile: true
 -------
 **MAL2 drives immune evasion in breast cancer by suppressing tumor antigen presentation.**  
 Yuanzhang Fang*, Lifei Wang*, **Changlin Wan** *, Yifan Sun, Kevin Van der Jeught, Zhuolong Zhou, Tianhan Dong, Ka Man So, Tao Yu, Yujing Li, Haniyeh Eyvani, Austyn B. Colter, Edward Dong, Sha Cao, Jin Wang, Bryan P. Schneider, George E. Sandusky, Yunlong Liu, Chi Zhang, Xiongbin Lu, and Xinna Zhang.  
-*Journal of Clinical Investigation*, Cover letter of Jan 2021 issue, [Paper](https://www.jci.org/articles/view/140837)
+*Journal of Clinical Investigation*, [Cover letter](https://www.jci.org/131/1), [Paper](https://www.jci.org/articles/view/140837)
 
 2020
 --------
@@ -38,7 +38,7 @@ Yuanzhang Fang*, Lifei Wang*, **Changlin Wan** *, Yifan Sun, Kevin Van der Jeugh
 
 **Mammalian near-infrared image vision through injectable and self-powered retinal nanoantennae**  
 Yuqian Ma, Jin Bao, Yuanwei Zhang, Zhanjun Li, Xiangyu Zhou, **Changlin Wan**, Ling Huang, Yang Zhao, Gang Han, Tian Xue  
-*Cell*, [Best of Cell 2019](https://info.cell.com/best-of-cell-2019), [Nature News](https://www.nature.com/articles/d41586-019-00735-4#:~:text=Cue%20the%20super%2Dmouse.,invisible%20to%20mammals%20%E2%80%94%20including%20humans.&text=Xue's%20team%20attached%20the%20nanoparticles,then%20injected%20them%20into%20mice.), [*The Atlantic*](https://www.theatlantic.com/science/archive/2019/02/nanotech-injections-give-mice-infrared-vision/583768/), [ScienceDaily](https://www.sciencedaily.com/releases/2019/02/190228141412.htm)
+*Cell*, [Paper](https://www.sciencedirect.com/science/article/pii/S0092867419301011), [Best of Cell 2019](https://info.cell.com/best-of-cell-2019), [Nature News](https://www.nature.com/articles/d41586-019-00735-4#:~:text=Cue%20the%20super%2Dmouse.,invisible%20to%20mammals%20%E2%80%94%20including%20humans.&text=Xue's%20team%20attached%20the%20nanoparticles,then%20injected%20them%20into%20mice.), [*The Atlantic*](https://www.theatlantic.com/science/archive/2019/02/nanotech-injections-give-mice-infrared-vision/583768/), [ScienceDaily](https://www.sciencedaily.com/releases/2019/02/190228141412.htm)
 
 
 2017
