@@ -15,7 +15,7 @@ Yuanzhang Fang\*, Lifei Wang\*, **Changlin Wan**\*, Yifan Sun, Kevin Van der Jeu
 --------
 **A data denoising approach to optimize functional clustering of single cell RNA-sequencing data.**  
 **Changlin Wan**\*, Dongya Jia\*, Yue Zhao, Wennan Chang, Sha Cao, Xiao Wang, and Chi Zhang. 
-*Proceedings of 2020 IEEE International Conference on Bioinformatics and Biomedicine* (**BIBM 2020**)
+*Proceedings of 2020 IEEE International Conference on Bioinformatics and Biomedicine* (**BIBM 2020**), [Paper](https://ieeexplore.ieee.org/abstract/document/9313483), [Code](https://github.com/clwan/CIBS)
 
 **Geometric all-way Boolean tensor decomposition.**  
 **Changlin Wan**, Wennan Chang, Tong Zhao, Sha Cao, Chi Zhang.  
@@ -46,4 +46,7 @@ Yuqian Ma, Jin Bao, Yuanwei Zhang, Zhanjun Li, Xiangyu Zhou, **Changlin Wan**, L
 **CPSS 2.0: a computational platform update for the analysis of small RNA sequencing data.**  
 **Changlin Wan**\*, Jianing Gao\*, Huan Zhang, Xiaohua Jiang, Qiguang Zang, Rongjun Ban, Yuanwei Zhang, and Qinghua Shi.  
 *Bioinformatics*, [Paper](https://academic.oup.com/bioinformatics/article/33/20/3289/2976718), [Website](http://114.214.166.79/cpss2.0/)
+
+
+(* Co-first author)
 
