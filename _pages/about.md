@@ -19,7 +19,7 @@ My research lies in the intersection of machine learning and Computational Biolo
 
 Recent News
 -----------
-- Quite honored to got the invitation as a PC member for ICML, IJCAI, KDD and UAI. Would also honor all other reviewer opportunities, if any. Haha. 
+- Quite honored to get invited as a PC member for ICML, IJCAI, KDD and UAI. Would also honor all other reviewer opportunities, if any. Haha. 
 
 - So excited to share that Changlin will join [Prof. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie)'s lab @MSKCC as summer research intern in 2021. (Yeah, I will be there on-site. Hit me up and coffee is on me!)
 
