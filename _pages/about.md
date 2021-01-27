@@ -19,6 +19,8 @@ My research lies in the intersection of machine learning and Computational Biolo
 
 Recent News
 -----------
+- Quite honored to got the invitation as a PC member for ICML, IJCAI, KDD and UAI. Would also honor all other reviewer opportunities, if any. Haha. 
+
 - So excited to share that Changlin will join [Prof. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie)'s lab @MSKCC as summer research intern in 2021. (Yeah, I will be there on-site. Hit me up and coffee is on me!)
 
 - Our single cell denoising pipeline has been accepted by IEEE BIBM 2020, a joyful collaboration with [Dr. Dongya Jia](https://scholar.google.com/citations?user=lz2H6dsAAAAJ&hl=en).
@@ -39,7 +41,7 @@ Experiences
 Journal/Conference reviewer
 -----------------
 - Nucleic Acid Research, Geonome Biology
-- UAI 2021, IJCAI 2021, KDD 2020, IJCAI 2020, BIBM 2018
+- ICML 2021, UAI 2021, IJCAI 2021, KDD 2021, IJCAI 2020, KDD 2020, BIBM 2018
 
 
 Awards/Honors
