@@ -21,7 +21,7 @@ Yuanzhang Fang\*, Lifei Wang\*, **Changlin Wan**\*, Yifan Sun, Kevin Van der Jeu
 **Changlin Wan**, Wennan Chang, Tong Zhao, Sha Cao, Chi Zhang.  
 *Advances in Neural Information Processing Systems* (**NeurIPS 2020**), [Paper](https://arxiv.org/abs/2007.15821), [Code](https://github.com/clwan/GETF)
 
-**Denoising individual bias for a fairer binary submatrix detection.** 
+**Denoising individual bias for a fairer binary submatrix detection.**                   
 **Changlin Wan**, Wennan Chang, Tong Zhao, Sha Cao, Chi Zhang.  
 *Proceedings of the 29th ACM International Conference on Information & Knowledge Management* (**CIKM 2020**), [Paper](https://arxiv.org/abs/2007.15816), [Code](https://github.com/clwan/BIND)
 
