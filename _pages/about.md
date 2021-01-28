@@ -21,6 +21,8 @@ Recent News
 -----------
 - Quite honored to get invited as a PC member for ICML, IJCAI, KDD and UAI. Would also honor all other reviewer opportunities, if any. Haha. 
 
+- Our MAL2 paper has been accapted by [Journal of Clinical Investigation](https://www.jci.org/articles/view/140837) and featured as (cover story)[https://www.jci.org/131/1] for the January Issue. 
+
 - So excited to share that Changlin will join [Prof. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie)'s lab @MSKCC as summer research intern in 2021. (Yeah, I will be there on-site. Hit me up and coffee is on me!)
 
 - Our single cell denoising pipeline has been accepted by IEEE BIBM 2020, a joyful collaboration with [Dr. Dongya Jia](https://scholar.google.com/citations?user=lz2H6dsAAAAJ&hl=en).
