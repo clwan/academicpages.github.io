@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 --------
-Hey, there. I am a Ph.D candidate on Electrical and Computer Engineering at Purdue University, where I am fortunated to be advised by [Prof. Chi Zhang](https://zcslab.github.io/) from Indiana University School of Medicine. I received B.S in Biology from University of Science and Technology of China (USTC) in 2016.
+Hey, there. I joined Genentech Research and Early Development as AI Scientist. I recently obtained my Ph.D degree from Electrical and Computer Engineering at Purdue University, where I was fortunated to be advised by [Prof. Chi Zhang](https://zcslab.github.io/) from Indiana University School of Medicine. I received B.S in Biology from University of Science and Technology of China (USTC) in 2016.
 
 My research lies in the intersection of machine learning and Computational Biology, with specific focus on
 - Knowledge generalization and representation ([NeurIPS](https://papers.nips.cc/paper/2020/file/1def1713ebf17722cbe300cfc1c88558-Paper.pdf), [CIKM](https://dl.acm.org/doi/abs/10.1145/3340531.3412156), [AAAI](https://ojs.aaai.org//index.php/AAAI/article/view/6072)).
@@ -19,21 +19,21 @@ My research lies in the intersection of machine learning and Computational Biolo
 
 Recent News
 -----------
-- Quite honored to get invited as a PC member for ICML, IJCAI, KDD and UAI. Would also honor all other reviewer opportunities, if any. Haha. 
+- Our Bias aware Boolean matrix factorization method was accepted at UAI 2022. 
 
 - Our MAL2 paper has been accapted by [Journal of Clinical Investigation](https://www.jci.org/articles/view/140837) and featured as [cover story](https://www.jci.org/131/1) for the January Issue. 
 
-- So excited to share that Changlin will join [Prof. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie)'s lab @MSKCC as summer research intern in 2021. (Yeah, I will be there on-site. Hit me up and coffee is on me!)
-
-- Our single cell denoising pipeline has been accepted by IEEE BIBM 2020, a joyful collaboration with [Dr. Dongya Jia](https://scholar.google.com/citations?user=lz2H6dsAAAAJ&hl=en).
-
-- Our Boolean tensor factorization method has been accepted by NeurIPS 2020, this is first of its kind method to tackle tensor factorization problem under geometric consideration.
 
 
 Experiences
 -----------
+
+- Genentech Research and Early Development, South San Francisco, CA
+  - Comutational Biology Intern, Aug 2021 - Dec 2021
+- Memorial Sloan Kettering Cancer Center, New York, NY
+  - Summer Intern, May 2021 - Aug 2021
 - Indiana University, School of Medicine, Indianapolis, IN
-  - Research Assistant, Aug 2017 - Present
+  - Research Assistant, Aug 2017 - May 2022
 - Amazon, Seattle, WA
   - Applied Scientist Intern, Jun 2020 - Sep 2020
 - University of Science and Technology of China, Hefei, China
@@ -43,7 +43,7 @@ Experiences
 Journal/Conference reviewer
 -----------------
 - Nucleic Acid Research, Geonome Biology
-- ICML 2021, UAI 2021, IJCAI 2021, KDD 2021, IJCAI 2020, KDD 2020, BIBM 2018
+- NeurIPS 2022, ICML 2022,2021, UAI 2022,2021, IJCAI 2022,2021,2020, KDD 2021, KDD 2020, BIBM 2018
 
 
 Awards/Honors
