@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+2022
+-------
+**Bias Aware Probabilistic Boolean Matrix Facortization.**  
+**Changlin Wan**, Pengtao Dang, Tong Zhao, Yong Zang, Chi Zhang, Sha Cao.
+*In The 38th Conference on Uncertainty in Artificial Intelligence. (**UAI 2022**)*, [Paper](https://openreview.net/forum?id=SSHGJuLj9lc), [Code](https://github.com/clwan/BABF)
+
+
+
 2021
 -------
 **MAL2 drives immune evasion in breast cancer by suppressing tumor antigen presentation.**  
