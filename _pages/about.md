@@ -19,7 +19,9 @@ My research lies in the intersection of machine learning and Computational Biolo
 
 Recent News
 -----------
-- Our Bias aware Boolean matrix factorization method was accepted at UAI 2022. 
+- Selected as top 10% reviewer for ICML 2022 and will be there onsite. Let's meet up!  
+
+- Our Bias aware Boolean matrix factorization method was accepted at [UAI 2022](https://openreview.net/forum?id=SSHGJuLj9lc). 
 
 - Our MAL2 paper has been accapted by [Journal of Clinical Investigation](https://www.jci.org/articles/view/140837) and featured as [cover story](https://www.jci.org/131/1) for the January Issue. 
 
