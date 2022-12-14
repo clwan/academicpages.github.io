@@ -36,11 +36,11 @@ Experiences
 - Memorial Sloan Kettering Cancer Center, New York, NY
   - Summer Intern with Christina Leslie, May 2021 - Aug 2021
 - Indiana University, School of Medicine, Indianapolis, IN
-  - Research Assistant under Chi Zhang, Aug 2017 - May 2022
+  - Research Assistant to Chi Zhang, Aug 2017 - May 2022
 - Amazon, Seattle, WA
   - Applied Scientist Intern at Product Graph, Jun 2020 - Sep 2020
 - University of Science and Technology of China, Hefei, China
-  - Research Assistant with Tian Xue, May 2016 - Jun 2017
+  - Research Assistant to Tian Xue, May 2016 - Jun 2017
 
 
 Journal/Conference reviewer
