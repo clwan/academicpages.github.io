@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 --------
-Hey, there. I joined Genentech Research and Early Development as AI Scientist. I recently obtained my Ph.D degree from Electrical and Computer Engineering at Purdue University. I received B.S in Biology from University of Science and Technology of China (USTC) in 2016.
+Hey, there. I joined Genentech Research and Early Development as AI Scientist. I obtained my Ph.D degree from Electrical and Computer Engineering at Purdue University in 2022. I received B.S in Biology from University of Science and Technology of China (USTC) in 2016.
 
 My research lies in the intersection of machine learning and Computational Biology, with specific focus on
 - Knowledge generalization and representation ([NeurIPS](https://papers.nips.cc/paper/2020/file/1def1713ebf17722cbe300cfc1c88558-Paper.pdf), [CIKM](https://dl.acm.org/doi/abs/10.1145/3340531.3412156), [AAAI](https://ojs.aaai.org//index.php/AAAI/article/view/6072)).
@@ -19,6 +19,8 @@ My research lies in the intersection of machine learning and Computational Biolo
 
 Recent News
 -----------
+
+- I am hiring an intern for summer 2023. Please apply [here](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2023-Summer-Intern---Early-Clinical-Development-Artificial-Intelligence--Machine-Learning-_202212-142420-1)
 
 - Selected as top 10% reviewer for both ICML 2022 and NeurIPS 2022. 
 
