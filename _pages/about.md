@@ -19,7 +19,8 @@ My research lies in the intersection of machine learning and Computational Biolo
 
 Recent News
 -----------
-- Selected as top 10% reviewer for ICML 2022 and will be there onsite. Let's meet up!  
+
+- Selected as top 10% reviewer for both ICML 2022 and NeurIPS 2022. 
 
 - Our Bias aware Boolean matrix factorization method was accepted at [UAI 2022](https://openreview.net/forum?id=SSHGJuLj9lc). 
 
@@ -31,15 +32,15 @@ Experiences
 -----------
 
 - Genentech Research and Early Development, South San Francisco, CA
-  - Comutational Biology Intern, Aug 2021 - Dec 2021
+  - Comutational Biology Intern with Aviv Regev, Aug 2021 - Dec 2021
 - Memorial Sloan Kettering Cancer Center, New York, NY
-  - Summer Intern, May 2021 - Aug 2021
+  - Summer Intern with Christina Leslie, May 2021 - Aug 2021
 - Indiana University, School of Medicine, Indianapolis, IN
-  - Research Assistant, Aug 2017 - May 2022
+  - Research Assistant under Chi Zhang, Aug 2017 - May 2022
 - Amazon, Seattle, WA
-  - Applied Scientist Intern, Jun 2020 - Sep 2020
+  - Applied Scientist Intern at Product Graph, Jun 2020 - Sep 2020
 - University of Science and Technology of China, Hefei, China
-  - Research Assistant, May 2016 - Jun 2017
+  - Research Assistant with Tian Xue, May 2016 - Jun 2017
 
 
 Journal/Conference reviewer
