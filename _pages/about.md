@@ -20,8 +20,6 @@ My research lies in the intersection of machine learning and Computational Biolo
 Recent News
 -----------
 
-- I am hiring an intern for summer 2023. Please apply [here](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2023-Summer-Intern---Early-Clinical-Development-Artificial-Intelligence--Machine-Learning-_202212-142420-1).
-
 - Selected as top 10% reviewer for both ICML 2022 and NeurIPS 2022. 
 
 - Our Bias aware Boolean matrix factorization method was accepted at [UAI 2022](https://openreview.net/forum?id=SSHGJuLj9lc). 
